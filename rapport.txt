@@ -1,0 +1,8 @@
+
+---
+
+### 🧪 Test rapide
+
+```bash
+node index.js
+cat rapport.txt
